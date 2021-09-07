@@ -13,6 +13,7 @@
   - [听我讲完redo log、binlog原理，面试官老脸一红](_content/mysql/01.mysql_redolog_binlog.md)
 
 - Spring 知识总结
+  - [聊聊spring事务失效的12种场景，太坑了](_content/spring/01.spring_transaction_invalid.md)
 
 - 设计模式知识总结
   
