@@ -15,5 +15,8 @@
 - Spring 知识总结
   - [聊聊spring事务失效的12种场景，太坑了](_content/spring/01.spring_transaction_invalid.md)
 
+- 分布式事务
+  - [分布式事务最经典的七种解决方案](_content/transaction/01.seven_solution_distributed_transactions.md)
+
 - 设计模式知识总结
   
